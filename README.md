@@ -5,7 +5,7 @@
 2. Portable artifact, easily shared and moved around.
 3. Makes development and deployment more efficient.
 
-[!dockerimage](/images/whatiscontainer.png)
+![docker](/images/whatiscontainer.png)
 
 ## Where do containers live?
 1. Container Repository
@@ -14,4 +14,4 @@
 
 
 ## Docker Image
-[!dockerimage](/images/dockerimage.png)
+![dockerimage](/images/dockerimage.png)
