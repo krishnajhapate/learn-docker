@@ -14,4 +14,4 @@
 
 
 ## Docker Image
-![dockerimage](/images/dockerimage.png)
+![dockerimage](/images/imagevscontainer.png)
